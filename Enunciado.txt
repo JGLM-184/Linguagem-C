@@ -1,0 +1,9 @@
+1. Dado um número, desenvolver a tabuada do mesmo utilizando os três laços de repetição
+
+2. Faça um programa que receba a idade, a altura e o peso de 5 pessoas, calcule e mostre:
+
+- a quantidade de pessoas com mais de 50 anos
+- a média das alturas das pessoas com idade entre 10 e 20 anos
+- a porcentagem de pessoas com peso inferior a 40kg entre todas as pessoas analisadas
+
+3. Faça um programa que receba 10 números, calcule e mostre a soma dos números pares e a soma dos números ímpares
